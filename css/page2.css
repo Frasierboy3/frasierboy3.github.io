@@ -1,0 +1,13 @@
+body{ 
+    background-color: blanchedalmond;
+}
+body,html{
+    height:100%;
+    margin:0px;
+ }
+li{
+    color: black;
+}
+body{ 
+    text-align:center;
+}
